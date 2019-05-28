@@ -1,0 +1,37 @@
+form{margin: 5% 25%}
+
+input{
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 20%;
+    font-weight: bold;
+}
+
+input[type="submit"]{
+    font-weight: bold;
+    width: 20%;
+    height: 10%;
+    font-size: 15px;
+    padding: 10px;
+    display: block;
+    margin: 0 25%;
+}
+
+div{
+    text-align: center;
+    width: 5%;
+    float: left;
+    margin: 5px;
+    border: 1px solid rgba(46,51,44,0.98);
+}
+
+a{
+    display: block;
+    text-align: center;
+    border-radius: 50%;
+    border: 1px solid #000000;
+    padding: 15px;
+    width: 15%;
+    margin: 5% 40%;
+    line-height: 100px;
+}
